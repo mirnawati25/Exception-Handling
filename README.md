@@ -7,6 +7,7 @@ Python Exception handling adalah suatu mekanisme penanganan flow normal program 
 <br>
 ![fundamental](/media/Python-try-except-fundamentals.jpg)
 
+
 ## **Standard Exceptions**
 
 | Nama                | Penjelasan                                                                                                                                                 |
